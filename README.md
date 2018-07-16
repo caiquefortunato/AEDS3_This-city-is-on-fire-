@@ -1,0 +1,2 @@
+# AEDS3_This-city-is-on-fire-
+O objetivo desse trabalho prático é descobrir qual é o caminho onde há a menor probabilidade de ocorrer um incêndio em um mapa de uma cidade que contém ruas, quarteirões e a localização dos corpos de bombeiros presentes na cidade. No entanto, algumas restrições devem ser obedecidas, entre elas manter uma distância de k quarteirões de algum corpo de bombeiro durante o trajeto e também a ordem lexicogŕafica.
